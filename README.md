@@ -88,7 +88,7 @@ Result: pass
 The borrower’s list should agree with the data in student’s account Result: pass
 
 ## Check-in book 
-Pass criteria: 
+Pass criteria:
 Librarians can check in a book using its call number 
 Result: pass 
 The check-in can be initiated from a previous search operation where 
